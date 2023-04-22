@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="Imc">Seu IMC é:</string>
+    <string name="Veja_tabela">VEJA ABAIXO A TABELA:</string>
+    <string name="Abaixo">Baixo Peso: Menor que 18.5</string>
+    <string name="Normal"> Adequado: De 18.5 até 24.9</string>
+    <string name="Sobrepeso">Pré-obeso: De 25 até 29.9</string>
+    <string name="Obesidade">Obesidade grau I: De 30 até 39.9</string>
+    <string name="Obesidade_II">Obesidade grau II: Acima de 39.9</string>
+    <string name="message_Classificacao">Classificacao: %1$s!</string>
+</resources>
