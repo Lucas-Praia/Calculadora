@@ -24,7 +24,7 @@ IMC Calculator was an app I developed to take my first steps with Android develo
 Improve app stylization and design
 
 ## Author
-Lucas Praia Garcia (follow me on [Linkedin](https://www.linkedin.com/in/lucas-praia-374158161))
+Lucas Praia Garcia (follow me on [Linkedin] (https// www.linkedin.com/in/lucas-praia-374158161))
 ## License
 ```
 The MIT License (MIT)
