@@ -7,6 +7,7 @@ IMC Calculator was an app I developed to take my first steps with Android develo
 
 ## Knowledge 
 * | Kotlin
+
 *Activity para host de telas
 * ViewGroup
   * RelativeLayout
